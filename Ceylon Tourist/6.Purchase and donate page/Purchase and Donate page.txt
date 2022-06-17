@@ -1,0 +1,3 @@
+10.	Purchase and Donate page
+•	This page should showcase types of donations tourists could make for the betterment of the heritage, wildlife attractions etc in the country.
+•	Page should also showcase several local merchandise tourists could purchase.  

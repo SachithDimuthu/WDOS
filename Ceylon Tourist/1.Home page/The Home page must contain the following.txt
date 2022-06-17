@@ -1,0 +1,102 @@
+5.	The Home page must contain the following:
+•	suitable content about the country 
+•	a suitable responsive main image
+•	3 sub-sections each having
+o	a suitable image
+o	at least two paragraphs of suitable content
+o	appropriate headings
+•	all the following items somewhere on the page
+o	a bullet point list of suitable content
+o	a numbered list of suitable content
+o	HTML comments for use by developers, which are not displayed on the page
+
+
+
+
+
+images source
+https://pixabay.com/images/search/sri%20lanka/ **main page**
+
+https://cdn.pixabay.com/photo/2018/04/01/10/39/people-3280571_960_720.jpg
+https://cdn.pixabay.com/photo/2021/07/28/08/44/elephants-6498609_960_720.jpg
+https://cdn.pixabay.com/photo/2020/02/04/15/37/galle-4818526_960_720.jpg
+https://cdn.pixabay.com/photo/2018/03/06/19/40/pool-3204359_960_720.jpg
+https://cdn.pixabay.com/photo/2018/03/25/21/42/beach-3260848_960_720.jpg
+https://cdn.pixabay.com/photo/2021/05/12/01/21/cassava-6247127_960_720.jpg
+https://cdn.pixabay.com/photo/2020/06/22/04/11/stupa-5327512_960_720.jpg
+https://unsplash.com/s/photos/sri-lankan-culture
+https://unsplash.com/s/photos/sri-lanka
+
+
+suitable content about the country
+
+Sri Lanka is one of the leading romantic destinations in the whole world.
+ The land of serendipity brings spiritual tranquility and a chance to rediscover oneself. 
+The beauty of this tiny island is simply breath-taking. Known for its enchanting ancient ruins, 
+endless soft-sanded beaches, imposing mountains, colourful festivals, tempting water sports, 
+dense wild-life, diverse ethnical groups and off the top hospitality from the local residents, 
+Sri Lanka is bound to make you come back again. Sri Lanka Travel and Tourism brings all of this 
+for you right under your fingertips so that you can discover the serene island for yourself.
+ - Sri lanka Travel and Tourism 2022- Best time to visit Sri Lanka
+(https://www.srilankatravelandtourism.com/)
+
+
+3sub sections
+
+1st sub section
+why srilanka is the best place to travel
+If golden beaches, rising waves, misty mountains, mighty elephants, stealthy leopards, 
+giant whales, a majestic past, lovely tea and warm smiles could sum up a country,
+ that would be Sri Lanka.
+
+With many sites and scenes bottled up in to a small island,
+ a traveller could be riding the waves in the dawn and admiring the green carpeted mountains
+ by dusk. Travel destinations in Sri Lanka provide an array of holiday experience 
+from sun kissed beach holidays to a marathon of wildlife watching, 
+adrenaline pumping adventure sports and pilgrimage to some of the oldest cities in the world.
+
+The smiles and hospitality of Sri Lanka are world famous and so are its spicy food,
+ exotic fruits, and an array of sweetmeats found nowhere in the world. With so many cultures
+ living next to each other life in Sri Lanka continues among a series of
+ festivities throughout the year, an ideal recipe for fun and leisure
+(https://srilanka.travel/good-reasons-to-visit-srilanka)
+
+2nd sub section
+Explore Vibrant Sri Lanka with These Festivals
+
+In its purest sense, Sri Lanka is the land of festivals where people celebrate different aspects 
+of life with unparalleled zeal. To support the all-year enthusiasm, you must know that the Sri Lankan
+ calendar has 25 public holidays.
+
+Here are the biggest festivals in Sri Lanka, which you must know about: 
+
+1. Sinhala and Tamil New Year
+2. Vesak
+3. Poson Festival
+4. Kandy Esala Poya Perahera
+5. Kataragama Festival
+6. Vel Festival
+Where: Colombo
+7. Deepavali
+8. Duruthu Perahera
+9. Nallur Festival
+10. Thai Pongal
+
+(https://www.holidify.com/pages/vibrant-festivals-of-sri-lanka-3362.html)
+
+3rd sub section
+When is the best time to visit Sri Lanka?
+
+It may sound cliched but Sri Lanka is genuinely a year-round holiday destination,
+ although the best time to go to Sri Lanka is between December and mid-April, 
+which is considered to be the peak season.(https://www.selectiveasia.com/sri-lanka-holidays/weather#:~:text=It%20may%20sound%20cliched%20but,to%20be%20the%20peak%20season.)
+
+In a nutshell, the variations in the weather patterns mean that the best time to 
+visit Sri Lanka is intertwined with where on the island you want to go:
+
+If you’re heading to the west, or south coasts and the hill country, then you’re 
+best off going between December and March.
+
+If you’re intending to make your way to the east coast and the north you’ll
+ find the best time of year to visit Sri Lankais from April or May to September.
+(https://www.roughguides.com/sri-lanka/when-to-go/)

@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    color:aliceblue;
+    vertical-align: top;
+    border-color: grey;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align:center;
+    border-bottom: 1px solid #DDD;
+    border-radius: 7px;
+  }
+
+.top{
+  background-color: black;
+}
+
+tr:hover {background-color:rgb(73, 73, 73)}

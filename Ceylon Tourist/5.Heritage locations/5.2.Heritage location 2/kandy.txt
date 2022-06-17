@@ -1,0 +1,54 @@
+9.	The two heritage location pages can be about two significant venues in Sri Lanka with significant heritage value. 
+•	these two pages must have identical HTML 
+•	the HTML pages must have at least the following
+o	a main image
+o	at least one other image 
+o	at least 3 sections
+o	a header and a footer
+o	a navigation section with appropriate links
+•	each page must link to a separate CSS 
+•	each page must be styled in a totally different way to demonstrate that the same HTML can have a different appearance dependent on the CSS
+•	each page must have at least one animation
+
+*kandy
+1st section
+Why visit Kandy?
+KANDY IS SRI LANKA’S SECOND LARGEST CITY AFTER COLOMBO, 
+BRIMMING WITH A FASCINATING HISTORY, RICH CULTURE, SPECTACULAR BEAUTY,
+ AND OLD-WORLD CHARM.
+
+2nd section
+Travel to Kandy
+Lush forests, sprawling mountain ranges, the meandering Kandy Lake, known as the Sea of Milk,
+ and an array of distinguished colonial building and magnificent Kandyan inspired 
+architecture completes this Medieval City. This beautiful, laidback capital is only 
+72 miles (115 kilometres) inland yet boasts exceptional cultural and historical
+ attractions, set amidst forested hills. Known as a pilgrimage destination for 
+the Temple of the Tooth Relic (a sacred tooth of the Buddha), a listed UNESCO 
+World Heritage Site, Kandy is a sacred city, due to the importance and spiritual 
+significance of this temple. It is also known for the vibrantly festive Kandy
+ Esala Perahera, also known as the Festival of the Tooth, an important 10-day 
+religious celebration each August. Lying at an altitude of 1 640 feet (500 metres)
+ above sea level and surrounded by the Knuckles and Hunnasgiriya Mountain Ranges,
+ the temperatures around Kandy are slightly cooler and conditions more pleasant
+ than in the lowlands. An important and established Buddhist site, Kandy was
+ formerly known as the city of Senkadagalapura. It served as the last capital 
+of the Sinhalese kingdom before falling to the British in 1815.
+
+3rd section
+Points of Interest in Kandy
+
+Stroll amidst the stunning Botanical Gardens in Peradeniya and marvel at exquisite orchids
+
+Wind your way around three gorgeous temples including Embekke, Lankathilake and Gadaladeniya,
+ and chat with the locals in fragrant tea stalls
+
+View the Temple of the Sacred Tooth Relic (a sacred tooth of the Buddha), a revered site
+ for holy pilgrims
+
+Explore the serene War Cemetery revering the lives of those lost in the war,
+ and the older Garrison Cemetery honouring the men, women and children buried 
+far from home.
+
+footre
+https://www.andbeyond.com/advice/asia/sri-lanka/kandy/why-visit-kandy/

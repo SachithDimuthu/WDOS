@@ -1,0 +1,218 @@
+.bg-img {
+    /* The image used */
+    /* background-image: url("1.Home page/img\ 2.jpeg"); */
+    width: 100%;
+    
+  
+    min-height: 500px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: initial;
+  
+    /* Needed to position the navbar */
+    position: relative;
+    border: 2px solid #0d6efd ;
+    
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #0d6efd;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:double;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #0d6efd;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+.firstP
+{
+   color:#0d6efd;
+    text-align: center;
+    text-transform: uppercase;
+    
+    
+    
+}
+
+.secondP
+{
+  text-align: left;
+  font-weight: bold;
+  color:#0d6efd;
+
+}
+
+.thirdP
+{
+text-align: left;
+color:#0d6efd;
+font-weight: 500;
+
+
+}
+
+
+.train {
+  
+        /* The image used */
+        background-image: url("1.Home page/img 3.jpg");
+  
+        min-height: 280px;
+        
+      
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+        /* Needed to position the navbar */
+        position: relative;
+        border: 3px solid #0d6efd;
+  
+}
+
+/* needed to style images inside sections */
+.sectionImages
+{
+  background-position: left;
+  background-repeat: no-repeat;
+  position: left;
+  width: 500px;
+  height: 300px;
+  border: 2px solid #0d6efd;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+/* needed to put a background to footer */
+footer
+{
+    background: #0d6efd;
+    padding: 1em;
+    color: #eb932b;
+}
+
+/* needed to style footer */
+footer ul,footer a
+{
+  
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+    text-decoration: none;
+    color: whitesmoke;
+    line-height: 1.7;
+    
+}
+
+body
+{
+  background-color:rgb(255, 255, 255);
+  background-image: url("img 1.png")
+}
+
+h1 {
+  font-size: 50px;
+  text-shadow: 0 0 13px #ffffff, 0 0 5px #fa0a01;
+}
+
+/* #background .image {
+  display: none;
+  background: none center center no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 105%;
+}
+h1,h2,h3,h4,h5,h6,p,ul {
+  background-color:aliceblue;
+} */
+
+
+/* background image - https://dronecamp.org/home-1/circuito/ */
+
+

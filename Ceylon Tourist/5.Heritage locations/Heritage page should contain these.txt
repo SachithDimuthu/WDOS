@@ -1,0 +1,90 @@
+9.	The two heritage location pages can be about two significant venues in Sri Lanka with significant heritage value. 
+•	these two pages must have identical HTML 
+•	the HTML pages must have at least the following
+o	a main image
+o	at least one other image 
+o	at least 3 sections
+o	a header and a footer
+o	a navigation section with appropriate links
+•	each page must link to a separate CSS 
+•	each page must be styled in a totally different way to demonstrate that the same HTML can have a different appearance dependent on the CSS
+•	each page must have at least one animation
+
+
+* sigiriya
+header-Sigiriya Rock Fortress Sri Lanka
+1.images-https://pixabay.com/photos/search/sigiriya/
+
+1st section
+Sigiriya Rock Fortress Sri Lanka
+What is Sigiriya ?     
+Sigiriya is an ancient rock fortress and palace built by King Kashyapa during the reign 
+of 473 – 495 which is standing majestically 660 feet straight up. It is located in the
+ northern Matale district near the town of Dambulla in central province of Sri Lanka. 
+The word Sigiriya or the Sinhagiri means the Lion’s Rock where you have to climb up 1200 
+steps before you reach the Lion Rock Fortress on top of Sigiriya
+
+2nd section
+History of Sigiriya Rock Fortress 
+Historical research carried out at the site has brought to light evidence to show that
+ the origins of Sigiriya date back to pre-historic times. Situated at the base of the 
+Sigiriya rock of its eastern side, is a monadnock named Aligala (Elephant Rock). In a 
+cave underneath this, excavation have revealed remains of pre-historic human settlements
+ that existed here around 5,500 years B.P. In addition, there is evidence of 
+human habitation in this area, as far back in history as the 9th — 10th centuries B.C. 
+
+
+3rd section
+Sigiriya Rock Fortress FAQ (Frequently Asked Questions) 
+What is Sigiriya Famous for?
+Sigiriya is a best-preserved ancient rock fortress and one of the archeological treasure in South Asia. It’s a masterpiece of ancient urban planning / landscape & architecture / construction technology /exceptional hydraulic engineering & management / ancient fine art with unique harmony between nature and human imagination. Thus UNESCO declared this site as a World Heritage 
+
+Who Built the Sigiriya rock?
+A Sri Lankan King Kashyapa built the famous Sigiriya lion rock 
+
+How many steps are in Lion Rock Sigiriya to climb?
+Approximately 1,200 steps are to be climbed to the summit. 
+
+What is the height of the lion rock sigiriya?
+Its 660 Feet from surrounding plain 
+
+Is it hard or danger to climb lion rock Sigiriya ?
+Its is not danger to climb but make sure you are healthy enough to climb 1,200. 
+
+Can senior citizen climb Sigiriya lion rock fortress?
+Yes people do and you may take time and climb. There are places for you to take rest and climb. 
+We suggest you to keep senior citizen in nearby restaurant and climb. Also you may let them to visit the Sigiriya museum close to the main gate. 
+
+Can I climb lion rock with my infant or kid ?
+Not recommended but people do climb with kids like 8 Y and above. 
+
+Opening time of Sigiriya lion rock for visitors ?
+7.00 AM to 5.00 PM
+
+Entrance fees for lion rock Sigiriya 
+30 USD per person / Foreign 
+15 USD per person only for SAARC Countries nationals (Need to submit the passport to get this discount) 
+
+What is the best time to climb Sigiriya lion rock?
+Ideally in the morning 8 – 10 Am or 3 – 5 PM to avoid hot sun 
+
+What is the temperature of Sigiriya lion rock ?
+Approximately 27 – 30 C 
+
+Can I buy Sigiriya lion rock entrance fees ticket online ?
+Not yet as of now but this will be online soon
+
+What is the dress code for Sigiriya Lion rock?
+Sigiriya is not a temple or any religious place and you can wear your own dress. 
+
+
+
+footer-images taker from -
+Reference 
+•    CCF – Central Cultural Fund Sri Lanka 
+•    SLTDA – Sri Lanka Tourism Development Authority 
+•    SLITHM – Sri Lanka Institute of Tourism & Hotel Management 
+link(https://www.ceylonexpeditions.com/sigiriya-rock-fortress-sri-lanka#:~:text=Sigiriya%20is%20an%20ancient%20rock,central%20province%20of%20Sri%20Lanka.)
+
+
+*

@@ -1,0 +1,44 @@
+8.	Activities page will contain the following:
+•	Descriptions of at least 3 main activities which attracts tourists in the country 
+(Such as hiking, safari etc)
+•	3 sections (one for each activity), having:
+o	an appropriate image
+o	a brief description of the activity, time, cost other details
+o	an appropriate link to a suitable resource. 
+•	Links for the two heritage location pages (details shown in question 9) 
+
+*hiking
+1.image-https://pixabay.com/photos/sunset-hiking-greetings-namaste-2173918/
+2.description
+Sri Lanka is a special hiking destination. There are trails for all sorts of experience
+ levels, from easy walks to more intense treks. The country also has more than 400
+ waterfalls, a visit to which is included in plenty of hikes. Got your walking boots 
+laced, camera packed and sunscreen on? then srilanka is the best place to hike
+(https://theculturetrip.com/asia/sri-lanka/articles/the-best-hiking-and-trekking-trails-in-sri-lanka/)
+tour length-8 days
+cost- from $1200(https://www.tourradar.com/i/sri-lanka-hiking-trekking)
+
+*safari
+1.image-https://pixabay.com/photos/bandipur-reserve-sunset-park-1643634/
+2.description-Yala National Park is a huge area of forest, grassland and 
+lagoons bordering the Indian Ocean, in southeast Sri Lanka. It’s home to 
+wildlife such as leopards, elephants and crocodiles, as well as hundreds 
+of bird species. Inland, include a naturalist-led jeep safari ride through
+ the wildlife-filled grasslands, followed by a home-cooked lunch with from
+ local family enjoyed. early morning departure to Yala National Park, A full-day,
+ private excursion to Yala, back to airport Colombo.
+tour length- 3days
+cost-360$
+(https://www.tourradar.com/t/189334#p=2_)
+
+*surfing
+1.image-https://pixabay.com/photos/womans-day-women-girls-surfers-4390452/
+2.description-Sri Lanka is world-famous for surfing and has breaks suitable for all 
+levels, so you’ll be in seventh heaven whether you’re a hardcore surfer or you’ve not
+ yet mastered standing on a board.(https://theculturetrip.com/asia/sri-lanka/articles/the-best-surf-spots-in-sri-lanka/)
+time=one week
+cost-$560USD per week
+(https://www.stokedfortravel.com/sri-lanka-surf-camp-guide/#
+:~:text=Prices%20From%20%3D%20%24560USD%20per%20week%20(surf%20package)
+&text=Situated%20more%20in%20the%20centre,Sri%20Lanka%20has%20to%20offer.)
+

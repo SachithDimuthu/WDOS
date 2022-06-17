@@ -1,0 +1,91 @@
+
+6.	Types of wildlife attractions page must contain the following:
+•	suitable content about different wild life attractions in the country 
+(each attraction needs to have a name, a map, images and a description)
+•	a summary table showing suitable content about specific animals/plants
+ we can find in the wild life attractions you mentioned above:
+o	You can select which data to present here e.g.: name of the animal/plant,
+ habitats, image, food habits, features etc
+•	the table must have
+o	appropriate headings
+o	at least 3 columns and at least 3 rows
+o	a table footer
+
+
+
+*suitable content about wild life
+Having 29.9 % of the country being declared as protected forests and with 26 national parks,
+ 10 Nature Reserves including 3 Strict Nature Reserves and 61 Sanctuaries, what Sri Lanka
+ offers in wildlife, in terms of diversity, variety and the potential to experience 
+(within shorter distances and time span) is almost unreal but incredibly true.
+
+The island is home to a wide range of rich and absorbing wildlife, 
+including Sri Lanka’s big five: the Elephant, Leopard, Sloth Bear,
+ Blue Whale, and the Sperm Whale. Our forests are a treasure trove 
+of bird species and Sri Lanka is among the countries that possess 
+the highest endemism in the world.
+(https://www.wildlifetourssrilanka.com/wildlife/parks-and-reserves.html)
+
+
+
+*1st attraction
+1.image(https://cdn.pixabay.com/photo/2013/05/17/07/12/elephant-111695_960_720.jpg)
+2.description
+The Asian elephant density in Sri Lanka is approximately ten times that of any other
+ country. 10% of the world’s Asia elephant population live in this small island, hence,
+ Sri Lanka offers opportunities of observing Asian elephants in the wild that are 
+unparalleled elsewhere. The elephants have become a cultural icon of 
+Sri Lanka.
+(https://www.cinnamonnaturetrails.com/the-wildlife/elephant.html)
+3.location map pinnavala-https://goo.gl/maps/hEYkKULQppTkqhfN9
+
+*2nd attraction
+1.image-(https://pixabay.com/photos/leopard-animal-mammal-predator-6899752/)
+2.description
+The Leopard (Panthera pardus, Linnaeus, 1758) is the most secretive and 
+elusive of the large carnivores, and also the shrewdest. Pound for pound, 
+it is the strongest climber of the larger cats and is capable of killing 
+prey far larger than itself
+(https://www.dilmahconservation.org/about-animals/mammals--
+f9925cffabdd604dfab150bbcb49f2a8/srilankanleopard--d8dbbf72a303e551afe0fd6c44d31a6f.html)
+3.map-https://goo.gl/maps/Dk44uDKGzW4S1Kgi7
+
+3rd attraction
+1.image-(https://pixabay.com/photos/sloth-bear-bear-india-animal-sloth-1136129/)
+2.description-The sloth bear, the only member of Family Ursidae in Sri Lanka
+ is found in dry zone forest habitats. Shaggy, dusty, and untidy black coat is 
+an unmistakable to spot Sloth Bear. It is solitary by nature and emits noisy grunts 
+and snorts while walking by keeping its nose closer to the ground in search of 
+insects and fresh fruit.
+(https://www.cinnamonnaturetrails.com/the-wildlife/sloth-bear.html)
+3.map-https://goo.gl/maps/yqxuMGpHQ6AMMwDY8
+
+4th attraction
+1.image-https://pixabay.com/photos/fish-nature-ocean-sea-sky-1836399/
+2.description-Sri Lanka’s location, marine topography with deep ocean canyons and 
+weather systems has created very hospitable conditions for Blue Whales to live in 
+our waters.  Narrow continental shelf, average of about 22km, often close to the 
+shore concentrates the island’s plankton rich water that attracts Blue Whales. 
+This makes Sri Lanka one of the best places to observe ocean giants.
+(https://www.cinnamonnaturetrails.com/the-wildlife/blue-whales.html)
+3.map-https://goo.gl/maps/2jzYdGc5jVovnfjg6
+
+5th attraction
+1.image-https://pixabay.com/photos/andenes-norway-arctic-circle-3596419/
+2.description-Sri Lanka’s coastal waters are a marine biologist’s delight.
+ Not only is its waters frequented by Blue Whales for several months of the year,
+ it also attracts super pods of Spinner Dolphins, a very common sight. The oceanic
+ waters surrounding Sri Lanka are rich in nutrients and therefore attract the bigger
+ and more impressive marine giants.
+(https://www.srilankabiggamesafaris.com/big-five-in-sri-lanka/sperm-whales-in-sri-lanka.html)
+3.map-https://goo.gl/maps/dGmMZVs5upNjsPVB6
+
+name	    location	        foodhabits	        habitats
+elephant    pinnawala	         150kg plants per day    grasslands,forested regions,savannas
+leopard     yala,wilpattu          preys,meat              open savannas,rainforests
+sloth bear  lowland dry forests    termites,ants           forested areas,caves dry zones
+blue whale  mirissa		   exclusively on krill     off coast of mirissa
+sperm whale mirissa             squids,sharks,fish       mirissa and dondara 
+
+a table footer
+

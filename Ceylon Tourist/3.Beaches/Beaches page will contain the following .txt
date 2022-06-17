@@ -1,0 +1,44 @@
+Beaches page will contain the following: 
+•	A appropriate images of 3 beaches in Sri Lanka
+•	A small description of each beach
+•	A link to a hotel each close to the specified beach
+
+
+contents taken from(https://www.planetware.com/sri-lanka/top-rated-beaches-in-sri-lanka-ind-1-8.htm)
+
+*nilaveli
+1.image-https://pixabay.com/illustrations/sri-lanka-sunset-heaven-beach-sea-2455746/
+2.description
+Nilaveli Beach is a broad, sandy beach, lined with palm trees and dotted with fishermen's 
+boats. Located on the northeast part of Sri Lanka, it's a 30-minute drive from the city of
+ Trincomalee. This tiny island has calm beaches with gentle surf due to its own small reef.
+ Although the beach at Nilaveli is large, it is popular with both locals and tourists.
+ There are lifeguards on duty and many little restaurants along the beach,
+ most specializing in seafood.The Anilana Nilaveli(link) sits right on Nilaveli Beach
+3.hotel link-https://www.tripadvisor.com/Hotel_Review-s1-g2424710-d3628067-Reviews-
+Anilana_Nilaveli-Nilaveli_Eastern_Province.html
+
+
+*kalkudah
+1.image-https://pixabay.com/photos/sea-sunset-nature-landscape-galle-7145940/
+2.description
+This mile-long beach on Pasikuda Bay is perfect for swimming and wading.
+ The surf is gentle, protected by a reef, unlike many beaches in Sri Lanka with rough surf.
+ The water is also shallow, allowing you to walk out into the ocean for hundreds of yards. 
+The sand is bright white and soft, with fine grains, and the beach is lined with coconut 
+trees. This area is just starting to be discovered for luxury resort development, 
+so there is plenty of untouched beach to explore.
+For those who want a secluded getaway right on the water's edge, Karpaha Sands(link)
+3.hotel-https://www.tripadvisor.com/Hotel_Review-s1-g2193270-d13999900-Reviews-
+Karpaha_Sands-Kalkudah_Eastern_Province.html
+
+
+*arugam bay
+1.image-https://pixabay.com/photos/surfing-sunset-waves-surf-2212948/
+2.description
+Arugam Bay is dramatically beautiful, with bright white sand 
+and deep blue water gradually becoming green the closer you get to the shore. 
+With that beauty comes some of the best surf breaks in Sri Lanka, and the beach 
+is known as an international surf destination.Right on Arugam Bay, 
+The Spice Trail (link)is a cool, little luxury resort with individual villa accommodations
+3.hotel-https://www.tripadvisor.com/Hotel_Review-s1-g3348959-d8439700-Reviews-The_Spice_Trail-Arugam_Bay_Eastern_Province.html
