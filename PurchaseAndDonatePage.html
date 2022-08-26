@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="HomePage.css" rel="stylesheet">
+        <link href="donate.css" rel="stylesheet">
     </head>
     <body>
     <div>
@@ -72,31 +73,97 @@
         </style>
         <body>
         
-        <h3>Please fill out the donation form.</h3>
+        
         
         <div>
-          <form action="/action_page.php">
-            <label for="fname">First Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="Your name..">
-        
-            <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-        
-            <label for="country">Country</label>
-            <select id="country" name="country">
-              <option value="australia">Australia</option>
-              <option value="canada">Canada</option>
-              <option value="usa">USA</option>
-              <option value="usa">Sri Lanka</option>
-              <option value="usa">India</option>
-            </select>
           
-            <input type="submit" value="Submit">
-          </form>
-        </div>
+          <br>
+
+          <div class="form-signup" id="singup">
+
         
-        </body>
-        </html>
-        
-        
-    </body>
+            <form method="get" onsubmit="return singup()">
+                <h1>Donation Form</h1>
+                <h3>Please fill out the donation form.</h3>
+               <section>
+                <div class="don_1">
+                  <div>
+                    <label for="firstname">First Name: <input type="text" class="fname" name="firstname" placeholder="Your First Name"></label><br>
+                    <label for="lastname">Last Name: <input type="text" class="lname" name="lastname" placeholder="Your Last Name"></label><br>
+                    <label for="email">Email: <input type="email" class="email" name="email" placeholder="Example@mail.com"></label><br>
+                  </div>
+                  
+              </div>
+                
+              <h3>Please Select Donation values.</h3>
+                <br>
+                <div class="don_1">
+                  <div>
+                    <h3><input type="radio" name="coffee" value="100">100 LKR<br>
+                    <input type="radio" name="coffee" value="250">250 LKR<br>
+                    <input type="radio" name="coffee" value="500">500 LKR<br></h3>
+                  </div>
+                  <div>
+                    <h3><input type="radio" name="coffee" value="1000">1000LKR<br>
+                    <input type="radio" name="coffee" value="2500">2500LKR<br>
+                    <input type="radio" name="coffee" value="5000">5000LKR<br>
+                    <input type="radio" name="coffee" value="10000">10000LKR<br></h3>
+                  </div>
+                  <br>
+                  
+                </div>
+                  
+                 
+               
+                <div class="don_1">
+                  <div>
+                    <label for="cardHolder">Card Holder Name :</label>
+                    <input type="text" class="hName" name="firstname" placeholder="Enter First Name">
+                    <br>
+                    <label for="cardNumber">Card Number :</label>
+                    <input type="text" class="d_cardNum" maxlength="16" class="card-number-input"><br>
+                  </div>
+                  
+              </div>
+                
+               <div class="don_1">
+                <div>
+                  <label for="date">Date :</label>
+                  <input type="date" class="date"><br><br>
+                  <label for="cvv">CVV :</label>
+                  <input type="text" class="cvv" maxlength="3"><br>
+                </div>
+                 
+               </div> 
+               </section>
+            
+             <label for="query">Comment: </label><br>
+             <textarea name="query" class="query" rows="30" cols="100"></textarea><br>
+             
+             <div>
+                
+                <input type="reset" name="reset" value="Reset" class="input">
+               
+                <input type="button" onclick="myFunction()" value="donation" class="input">
+
+                <input type="submit" name="submit" value="Submit">
+           
+             </div>
+              
+              
+              
+              
+            </form>
+          </div>
+        <script src="donate.js"></script>  
+  </body>
+  <footer>
+    <nav>
+        <ul>
+          <li><a href="#">reference links1</a></li>
+          <li><a href="#">reference links2</a></li>
+          <li><a href="#">reference</a></li>
+        </ul>
+      </nav>
+</footer>
+</html>
